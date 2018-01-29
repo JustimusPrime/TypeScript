@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "sourceMap": true
+  },
+  "files": [
+    "005_typecript_config.ts",
+    "006_variables.ts"
+  ]
+}
+
+
+

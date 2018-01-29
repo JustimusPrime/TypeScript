@@ -4,7 +4,10 @@
   },
   "files": [
     "005_typecript_config.ts",
-    "006_variables.ts"
+    "006_variables.ts",
+    "007_types.ts",
+    "008_type_alias.ts", 
+    "009_union_types.ts",
   ]
 }
 

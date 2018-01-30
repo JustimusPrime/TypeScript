@@ -8,6 +8,10 @@
     "007_types.ts",
     "008_type_alias.ts", 
     "009_union_types.ts",
+    "014_loops.ts",
+    "015_function.ts",
+    "016_function_args.ts",
+    "016_S_arrow_functions.ts",
   ]
 }
 

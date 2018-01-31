@@ -1,7 +1,10 @@
 var realUser = {
     email: 'test@test.com',
     firstName: 'Justimus',
-    lastName: 'Prime'
+    lastName: 'Prime',
+    sayHi: function () {
+        return "Hey there!";
+    }
 };
 console.log(realUser.email);
 console.log(realUser.firstName);

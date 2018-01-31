@@ -18,6 +18,7 @@
     "020_classes.ts",
     "021_inheritance.ts",
     "022_objects.ts",
+    "023_interfaces.ts",
 
   ]
 }

@@ -12,6 +12,13 @@
     "015_function.ts",
     "016_function_args.ts",
     "016_S_arrow_functions.ts",
+    "017_function_declarations_vs_expressions.ts",
+    "018_5_immediately_invoked_arguments.ts",
+    "019_closure_introductions.ts",
+    "020_classes.ts",
+    "021_inheritance.ts",
+    "022_objects.ts",
+
   ]
 }
 
